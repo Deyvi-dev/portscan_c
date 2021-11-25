@@ -1,2 +1,1 @@
-# portscan_c
-Portscan em C
+Portscan feito em C
